@@ -2,6 +2,7 @@ package = "MD5"
 version = "master-1"
 source = {
    url = "https://github.com/notegorkaa/md5"
+   branch = "master"
 }
 description = {
    summary = "Checksum library",
