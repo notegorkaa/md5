@@ -1,7 +1,7 @@
 package = "MD5"
 version = "master-1"
 source = {
-   url = "https://github.com/notegorkaa/md5"
+   url = "git+https://github.com/notegorkaa/md5",
    branch = "master"
 }
 description = {
