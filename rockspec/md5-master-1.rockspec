@@ -1,9 +1,7 @@
 package = "MD5"
-version = "1.3-1"
+version = "master-1"
 source = {
-   url = "https://github.com/keplerproject/md5/archive/1.3.tar.gz",
-   md5 = "17b773591141091a4104d5183aad134b",
-   dir = "md5-1.3",
+   url = "https://github.com/notegorkaa/md5"
 }
 description = {
    summary = "Checksum library",
